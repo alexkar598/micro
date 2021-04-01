@@ -75,6 +75,7 @@ module.exports = configure(function (/* ctx */) {
       chainWebpack (/* chain */) {
         //
       },
+      distDir: "docs"
     },
 
     // Full list of options: https://v1.quasar.dev/quasar-cli/quasar-conf-js#Property%3A-devServer

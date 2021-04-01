@@ -1,0 +1,67 @@
+Date : 2021-04-01 00:56:07
+Directory : c:\Users\alexkar598\Desktop\microtransaction
+Total : 28 files,  16685 codes, 126 comments, 158 blanks, all 16969 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          4 |     15,581 |          0 |          4 |     15,585 |
+| Vue        |          8 |        459 |          0 |         60 |        519 |
+| TypeScript |          6 |        303 |          6 |         22 |        331 |
+| JavaScript |          4 |        152 |        106 |         49 |        307 |
+| XML        |          2 |        131 |          2 |          2 |        135 |
+| HTML       |          1 |         25 |          1 |          5 |         31 |
+| Markdown   |          1 |         20 |          0 |          7 |         27 |
+| SCSS       |          2 |         14 |         11 |          9 |         34 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                         | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                            |         28 |     16,685 |        126 |        158 |     16,969 |
+| public                                                                       |          2 |        131 |          2 |          2 |        135 |
+| public\icons                                                                 |          2 |        131 |          2 |          2 |        135 |
+| src                                                                          |         17 |        801 |         18 |         96 |        915 |
+| src\components                                                               |          2 |         75 |          0 |         13 |         88 |
+| src\css                                                                      |          2 |         14 |         11 |          9 |         34 |
+| src\layouts                                                                  |          1 |        134 |          0 |         19 |        153 |
+| src\pages                                                                    |          4 |        239 |          0 |         26 |        265 |
+| src\router                                                                   |          2 |         29 |          5 |         10 |         44 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                     | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\alexkar598\Desktop\microtransaction\.eslintrc.js                    | JavaScript |         40 |         31 |         14 |         85 |
+| c:\Users\alexkar598\Desktop\microtransaction\.postcssrc.js                   | JavaScript |          5 |          2 |          2 |          9 |
+| c:\Users\alexkar598\Desktop\microtransaction\.prettierrc                     | JSON       |          4 |          0 |          1 |          5 |
+| c:\Users\alexkar598\Desktop\microtransaction\README.md                       | Markdown   |         20 |          0 |          7 |         27 |
+| c:\Users\alexkar598\Desktop\microtransaction\babel.config.js                 | JavaScript |          5 |          1 |          1 |          7 |
+| c:\Users\alexkar598\Desktop\microtransaction\package-lock.json               | JSON       |     15,525 |          0 |          1 |     15,526 |
+| c:\Users\alexkar598\Desktop\microtransaction\package.json                    | JSON       |         46 |          0 |          1 |         47 |
+| c:\Users\alexkar598\Desktop\microtransaction\public\icons\paypal.svg         | XML        |         63 |          1 |          1 |         65 |
+| c:\Users\alexkar598\Desktop\microtransaction\public\icons\youtube.svg        | XML        |         68 |          1 |          1 |         70 |
+| c:\Users\alexkar598\Desktop\microtransaction\quasar.conf.js                  | JavaScript |        102 |         72 |         32 |        206 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\App.vue                     | Vue        |         11 |          0 |          2 |         13 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\components\rickroll.vue     | Vue        |         37 |          0 |          8 |         45 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\components\shoppingList.vue | Vue        |         38 |          0 |          5 |         43 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\css\app.scss                | SCSS       |          6 |          1 |          2 |          9 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\css\quasar.variables.scss   | SCSS       |          8 |         10 |          7 |         25 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\env.d.ts                    | TypeScript |          7 |          0 |          1 |          8 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\index.template.html         | HTML       |         25 |          1 |          5 |         31 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\layouts\MainLayout.vue      | Vue        |        134 |          0 |         19 |        153 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\misc.ts                     | TypeScript |         11 |          0 |          5 |         16 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\pages\Error404.vue          | Vue        |         27 |          0 |          5 |         32 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\pages\Index.vue             | Vue        |         31 |          0 |          4 |         35 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\pages\checkout.vue          | Vue        |        117 |          0 |          8 |        125 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\pages\itemshop.vue          | Vue        |         64 |          0 |          9 |         73 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\router\index.ts             | TypeScript |         13 |          3 |          5 |         21 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\router\routes.ts            | TypeScript |         16 |          2 |          5 |         23 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\shims-vue.d.ts              | TypeScript |          4 |          1 |          1 |          6 |
+| c:\Users\alexkar598\Desktop\microtransaction\src\store.ts                    | TypeScript |        252 |          0 |          5 |        257 |
+| c:\Users\alexkar598\Desktop\microtransaction\tsconfig.json                   | JSON       |          6 |          0 |          1 |          7 |
+| Total                                                                        |            |     16,685 |        126 |        158 |     16,969 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
