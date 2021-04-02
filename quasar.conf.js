@@ -29,6 +29,7 @@ module.exports = configure(function (/* ctx */) {
     // https://v1.quasar.dev/quasar-cli/boot-files
     boot: [
       //"composition-api",
+      "analytics"
     ],
 
     // https://v1.quasar.dev/quasar-cli/quasar-conf-js#Property%3A-css

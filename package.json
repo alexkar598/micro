@@ -13,7 +13,8 @@
     "@quasar/extras": "^1.0.0",
     "@vue/composition-api": "^1.0.0-rc.3",
     "core-js": "^3.6.5",
-    "quasar": "^2.0.0-beta.11"
+    "quasar": "^2.0.0-beta.11",
+    "vue-gtag-next": "^1.14.0"
   },
   "devDependencies": {
     "@quasar/app": "^3.0.0-beta.10",
